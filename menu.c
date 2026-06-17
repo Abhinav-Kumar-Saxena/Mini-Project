@@ -8,6 +8,8 @@ int main()
     printf("1.satrter\n2.Maincourse\n3.Dessert\n4.Exit\n\n");
 
     scanf("%c",&op);
+    //hiii hellow 
+    //htt
 
     switch(op)
     {
@@ -25,7 +27,7 @@ int main()
         printf("1.\n 2.\n 3.\n");
         break;
         
-        case'4'://ns 
+        case'4':
         printf("thank you visit again\n");
         break;
         
