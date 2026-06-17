@@ -25,12 +25,13 @@ int main()
         printf("1.\n 2.\n 3.\n");
         break;
         
-        case'4':
+        case'4'://ns 
         printf("thank you visit again\n");
         break;
         
        default:
        printf("sorry not not in menu\n");
+       //
         
     }
     return 0;
